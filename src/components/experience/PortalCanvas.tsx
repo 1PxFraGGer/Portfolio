@@ -24,6 +24,7 @@ import {
   Mesh,
   MeshBasicMaterial,
   MeshStandardMaterial,
+  PerspectiveCamera,
   PointLight,
   Quaternion,
   Vector3,
